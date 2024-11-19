@@ -1,2 +1,2 @@
 # ExtractSelectColumns
-Python program to extract desired columns from a csv or xlsx file
+Python program to extract desired columns from a csv or xlsx file. I have been exporting highlights from Oreilly books/kindle. The export comes with too many unwanted columns. Hence i wrote this program to extract the desired columns. The source data can be either a csv file or xlsx file. The output file will be in xlsx file. If your excel file has multiple sheets, specify the sheet name while exporting the columns.
